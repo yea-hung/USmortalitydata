@@ -1,6 +1,6 @@
 # Description
 
-R function for reading US mortality data from the National Center for Health Statistics (NCHS).
+R function for reading US mortality data from the [National Center for Health Statistics](https://www.cdc.gov/nchs/index.htm) (NCHS).
 
 # Dependencies
 
