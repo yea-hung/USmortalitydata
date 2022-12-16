@@ -1,4 +1,4 @@
-read_us_mortality<-function(ff,kk=NULL){
+read_us_mortality_data<-function(ff){
   
   # load packages
   require(readr)
