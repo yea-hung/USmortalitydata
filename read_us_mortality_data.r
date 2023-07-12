@@ -6,6 +6,10 @@ read_us_mortality_data<-function(ff){
   # define positions
   positions<-list(
     resident.status=c(20,20),
+    state.occurrence=c(21,22),
+    county.occurrence=c(23,25),
+    state.residence=c(29,30),
+    county.residence=c(35,37),
     education.1989=c(61,62),
     education.2003=c(63,63),
     education.flag=c(64,64),
