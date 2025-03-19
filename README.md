@@ -1,11 +1,17 @@
-# Description
+# Summary
 
-R function for reading US mortality data from the [National Center for Health Statistics](https://www.cdc.gov/nchs/index.htm) (NCHS).
+R package for reading US mortality data from the [National Center for Health Statistics](https://www.cdc.gov/nchs/index.htm) (NCHS).
 
-# Dependencies
+# Installation
 
-- *readr*
+Install *devtools* if you don't already have it:
 
-# Arguments
+```r
+install.packages('devtools')
+```
 
-- `ff`: The file name.
+Install the *basecase* package:
+
+```r
+devtools::install_github('yea-hung/USmortalitydata')
+```
