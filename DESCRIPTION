@@ -1,6 +1,6 @@
 Package: USmortalitydata
 Title: USmortalitydata
-Version: 0.2025.03.19
+Version: 2025.03.19
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
