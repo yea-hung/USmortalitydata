@@ -10,8 +10,8 @@ Install *devtools* if you don't already have it:
 install.packages('devtools')
 ```
 
-Install the *basecase* package:
+Install the *readUSmortality* package:
 
 ```r
-devtools::install_github('yea-hung/USmortalitydata')
+devtools::install_github('yea-hung/readUSmortality')
 ```
